@@ -30,9 +30,9 @@ a {
 
 .small2-img {
 	position: absolute;
-  top: 30%; 
-  left: 44%;
-  width: 60px; /* 너 원하는 크기로 조절 */
+  top: 29%; 
+  left: 43.9%;
+  width: 65px; /* 너 원하는 크기로 조절 */
   z-index: 10; /* 배경보다 앞에 나오게 */
   background: orange;
 
@@ -43,9 +43,9 @@ a {
 
 .small3-img {
 	position: absolute;
-  top: 30%; 
-  left: 48.5%;
-  width: 60px; /* 너 원하는 크기로 조절 */
+  top: 29%; 
+  left: 48.3%;
+  width: 65px; /* 너 원하는 크기로 조절 */
   z-index: 10; /* 배경보다 앞에 나오게 */
   background: orange;
 
@@ -56,9 +56,9 @@ a {
 
  .small4-img {
 	position: absolute;
-  top: 72%; 
-  left: 79.8%;
-  width: 80px; /* 너 원하는 크기로 조절 */
+  top: 80%; 
+  left: 80.3%;
+  width: 81px; /* 너 원하는 크기로 조절 */
   z-index: 10; /* 배경보다 앞에 나오게 */
   background: orange;
 
@@ -66,3 +66,13 @@ a {
 .small4-img:hover {
   filter: hue-rotate(-50deg) saturate(3);
   transition: 0.3s;}
+
+.small5-img {
+  position: absolute;
+  bottom: -3.9%; 
+  left: 27.42%;
+  width: 695.5px; /* 너 원하는 크기로 조절 */
+  z-index: 40; /* 배경보다 앞에 나오게 */
+  background: orange;
+
+}
