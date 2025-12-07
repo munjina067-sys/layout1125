@@ -16,9 +16,9 @@ a {
 }
 .small1-img {
 	position: absolute;
-  top: 9.2%; 
+  top: 4.1%; 
   left: 38%;
-  width: 310px; /* 너 원하는 크기로 조절 */
+  width: 330px; /* 너 원하는 크기로 조절 */
   z-index: 10; /* 배경보다 앞에 나오게 */
   background: orange;
 
